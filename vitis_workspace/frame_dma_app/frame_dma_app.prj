@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="frame_dma_app" location="D:/R_D_Homeworks/Homework_12_MicroBlaze_DMA_Frame/vitis_workspace/frame_dma_app" platform="D:/R_D_Homeworks/Homework_12_MicroBlaze_DMA_Frame/vitis_workspace/microblaze_platform/export/microblaze_platform/microblaze_platform.xpfm" platformUID="xilinx:::0.0(custom)" systemProject="frame_dma_app_system" sysConfig="microblaze_platform" runtime="C/C++" cpu="standalone_domain" cpuInstance="microblaze_0" os="standalone" mssSignature="0e3c61b44854b7177a7600ca57fa9960">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.618904106">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.1221144820" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="empty_application"/>
+</sdkproject:SdkProject>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_design_1_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="axi_bram_ctrl_funcs" />
+            <top_module name="axi_dma_pkg" />
+            <top_module name="glbl" />
+            <top_module name="ipif_pkg" />
+            <top_module name="lib_pkg" />
+            <top_module name="lmb_bram_if_funcs" />
+            <top_module name="mdm_funcs" />
+            <top_module name="tb_design_1" />
+            <top_module name="vcomponents" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000000 us"></ZoomStartTime>
+      <ZoomEndTime time="3,710.520001 us"></ZoomEndTime>
+      <Cursor1Time time="3,710.520000 us"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="242"></NameColumnWidth>
+      <ValueColumnWidth column_width="92"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="12" />
+   <wvobject fp_name="/tb_design_1/GPIO_0_tri_i" type="array">
+      <obj_property name="ElementShortName">GPIO_0_tri_i[0:0]</obj_property>
+      <obj_property name="ObjectShortName">GPIO_0_tri_i[0:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_design_1/ext_data_0" type="array">
+      <obj_property name="ElementShortName">ext_data_0[7:0]</obj_property>
+      <obj_property name="ObjectShortName">ext_data_0[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_design_1/ext_valid_0" type="logic">
+      <obj_property name="ElementShortName">ext_valid_0</obj_property>
+      <obj_property name="ObjectShortName">ext_valid_0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_design_1/dut/design_1_i/frame_rx_axis_0/inst/start" type="logic">
+      <obj_property name="ElementShortName">start</obj_property>
+      <obj_property name="ObjectShortName">start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_design_1/dut/design_1_i/frame_rx_axis_0/inst/start_pulse" type="logic">
+      <obj_property name="ElementShortName">start_pulse</obj_property>
+      <obj_property name="ObjectShortName">start_pulse</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_design_1/dut/design_1_i/frame_rx_axis_0/inst/capture_active" type="logic">
+      <obj_property name="ElementShortName">capture_active</obj_property>
+      <obj_property name="ObjectShortName">capture_active</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_design_1/dut/design_1_i/frame_rx_axis_0/inst/pixel_count" type="array">
+      <obj_property name="ElementShortName">pixel_count[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pixel_count[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_design_1/dut/design_1_i/frame_rx_axis_0/inst/word_count" type="array">
+      <obj_property name="ElementShortName">word_count[31:0]</obj_property>
+      <obj_property name="ObjectShortName">word_count[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_design_1/dut/design_1_i/frame_rx_axis_0/inst/m_axis_tvalid" type="logic">
+      <obj_property name="ElementShortName">m_axis_tvalid</obj_property>
+      <obj_property name="ObjectShortName">m_axis_tvalid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_design_1/dut/design_1_i/frame_rx_axis_0/inst/m_axis_tready" type="logic">
+      <obj_property name="ElementShortName">m_axis_tready</obj_property>
+      <obj_property name="ObjectShortName">m_axis_tready</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_design_1/dut/design_1_i/frame_rx_axis_0/inst/m_axis_tlast" type="logic">
+      <obj_property name="ElementShortName">m_axis_tlast</obj_property>
+      <obj_property name="ObjectShortName">m_axis_tlast</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_design_1/dut/design_1_i/axi_gpio_0/gpio2_io_o" type="array">
+      <obj_property name="ElementShortName">gpio2_io_o[0:0]</obj_property>
+      <obj_property name="ObjectShortName">gpio2_io_o[0:0]</obj_property>
+   </wvobject>
+</wave_config>

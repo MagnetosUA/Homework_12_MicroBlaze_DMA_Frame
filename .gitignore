@@ -1,0 +1,52 @@
+# ---- Vivado ----
+*.runs/
+*.gen/
+*.cache/
+*.sim/
+*.hw/
+*.ip_user_files/
+*.Xil/
+*.jou
+*.log
+*.str
+*.backup.jou
+*.backup.log
+vivado_pid*.debug
+webtalk*.log
+webtalk*.jou
+
+# ---- Vitis ----
+**/.metadata/
+**/.analytics
+**/RemoteSystemsTempFiles/
+**/_ide/
+**/tempdsa/
+**/Debug/
+**/Release/
+
+*.o
+*.d
+*.elf.bak
+*.bin
+*.pdi
+
+# ---- General ----
+/build
+/export
+/logs
+*.lock
+*.vitisWorkspace.json
+
+# ---- Generated Vitis platform/BSP ----
+**/microblaze_platform/microblaze_0/
+**/microblaze_platform/export/
+**/microblaze_platform/.Xil/
+**/microblaze_platform/logs/
+
+# ---- Generated BSP content ----
+**/bsp/
+**/bsplib/
+**/libsrc/
+
+# ---- Vivado generated checkpoints ----
+**/*.dcp
